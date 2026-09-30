@@ -1,6 +1,6 @@
 # 🎫 Ticket Booking System: Concurrency & Race Condition Lab
 
-Django-based REST API designed to expose, analyze, and solve critical database race conditions. This project demonstrates how multiple near-simultaneous requests can lead to "overselling" and provides industry-standard solutions using **Pessimistic** and **Optimistic** locking.
+A Django-based REST API designed to expose, analyze, and solve critical database race conditions. This project demonstrates how multiple near-simultaneous requests can lead to "overselling" and provides industry-standard solutions using **Pessimistic** and **Optimistic** locking.
 
 ---
 
